@@ -1,0 +1,8 @@
+#ignore intelij file
+.idea
+LearnTypescript.iml
+
+#ignore logs
+*.log
+
+
